@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.globalcropexchange.com" }],
+      "destination": "https://www.tiffany-fredeluces.squarespace.com/:path*",
+      "permanent": true
+    }
+  ]
+}
